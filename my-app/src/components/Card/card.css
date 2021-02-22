@@ -1,0 +1,48 @@
+
+
+#card-container{
+    width: 300px;
+    height: 150px;
+    position: relative;
+    background: #FFF;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    box-shadow: 0 1px 4px 0 rgba(192, 208, 230, 0.8);
+    border-top: 20px solid rgba(230, 236, 245, 0.4);
+    cursor: grab;
+}
+
+p{
+    font-weight: 500;
+    line-height: 20px;
+}
+
+#card-container header{
+    height: 20px;
+    position: absolute;
+    top: -22px;
+    left: 15px;
+}
+
+
+#card-container header label{
+  width: 10px;
+  height: 10px;
+  border-radius: 2px;
+  display: inline-block;
+  background-color: yellow; 
+}
+
+
+
+.image{
+    width: 24px;
+    height: 24px;
+    border-radius: 2px;
+  
+}
+
+.image img{
+    width: 100%;
+    margin-top: 5px;
+}

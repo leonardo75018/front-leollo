@@ -1,0 +1,24 @@
+
+
+
+.home-container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.space{
+    width: 100%;
+    height: 20vh;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 115px;
+}
+
+.late{
+    width: 30%;
+    height: 100vh;
+    background-color: violet;
+}

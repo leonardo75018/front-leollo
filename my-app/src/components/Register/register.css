@@ -1,0 +1,41 @@
+
+
+
+
+#form-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+form, .isRegister{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.alert{
+    width: 30%;
+    text-align: center;
+}
+
+
+
+.btn-container{
+    width: 100%;
+    height: auto;
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+.btn{
+    width: 200px;
+
+}
+
+

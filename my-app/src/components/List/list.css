@@ -1,0 +1,44 @@
+
+
+#list-container{
+    height: 100%;
+    padding: 0px 15px;
+    flex: 0 0 320;
+    border-left:  1px solid rgb((red), green, blue);
+}
+
+#list-container{
+    border-left: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+header{
+    display: flex;
+    justify-content: flex-end;
+    height: 42px;
+}
+
+
+header h2{
+    font-weight: 500;
+    font-size: 16px;
+    padding: 0 10px;
+
+}
+
+
+#list-container button {
+    width: 42px;
+    height: 42px;
+    border-radius: 18px;
+    border: 0;
+    background: #3b5bfd;
+    cursor: pointer;
+  }
+
+  ul {
+    margin-top: 30px;
+  }
+
+
+
+
